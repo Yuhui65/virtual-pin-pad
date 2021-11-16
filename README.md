@@ -1,7 +1,9 @@
 # virtual-pin-pad
-# Introduction
-_Objectif_
-Concevoir & développer un écran Web représentant une zone d’écran et une zone de pavé numérique. La zone d’écran correspond au code PIN saisie par l’utilisateur au moyen du pavé numérique. Le code PIN est un code composé de 4 chiffres, de 0 à 9. 
+## Introduction
+_OBJECTIF_
+Concevoir & Développer un écran Web composant une zone d'écran au code PIN à 4 chiffres & un pavé numérique de 0 à 9.
+
+représentant une zone d’écran et une zone de pavé numérique. La zone d’écran correspond au code PIN saisie par l’utilisateur au moyen du pavé numérique. Le code PIN est un code composé de 4 chiffres, de 0 à 9. 
 
 
 
