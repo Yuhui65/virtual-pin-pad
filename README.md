@@ -1,8 +1,8 @@
 # virtual-pin-pad
 ## Introduction
-_OBJECTIF_
+### _OBJECTIF_
 Concevoir & Développer un écran Web composant une zone d'écran au code PIN à 4 chiffres & un pavé numérique de 0 à 9.
-_Nom de l'équipe_: YAGNI
+### _Nom de l'équipe_: YAGNI
 _Membre de l'équipe_: Manal (Scrum Master), Benjamin, Pascal, Yuhui
 _Croquis validé par PO_
 ![Yuhui_Croquis Main](https://user-images.githubusercontent.com/94376670/142019245-b89e7739-459d-4eaf-8fe3-ea3456fb222f.jpg)
